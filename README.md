@@ -9,7 +9,7 @@
 
 ## :page_facing_up: General info
 First role game to discover Java.<br><br>
-[![javagame.png](https://i.postimg.cc/Gmv1rSsK/javagame.png)](https://postimg.cc/xXjZ355N)
+[![javagame.png](https://i.postimg.cc/h4HDBm5S/javagame.png)](https://postimg.cc/c6By7vWj)
 	
 ## :computer: Technologies
 Chrono_Background is created with:
