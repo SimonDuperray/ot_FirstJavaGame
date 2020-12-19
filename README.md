@@ -12,7 +12,7 @@ First role game to discover Java.<br><br>
 [![javagame.png](https://i.postimg.cc/FRYvtFbd/javagame.png)](https://postimg.cc/FdX834BN)
 	
 ## :computer: Technologies
-Chrono_Background is created with:
+This game is created with:
 * Java
 	
 ## :cd: Setup
