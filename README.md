@@ -1,4 +1,4 @@
-# Invisibility
+# Java Game
 
 [-> Repository](https://github.com/SimonDuperray/ot_FIRST_JAVA_GAME)
 
